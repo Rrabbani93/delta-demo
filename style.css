@@ -1,0 +1,49 @@
+/* #logo {
+    height: 60px;
+    width: 60px;
+}
+.Header{
+    display: flex;
+    flex-wrap: nowrap;
+justify-content: space-between;
+align-items: center;
+}
+
+#H_btn {
+    border: none;
+    background-color: white;
+
+
+}
+.options {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+
+}
+
+.Header input{
+  width: 200px;
+
+}
+
+.Headerlast {
+ display: flex;
+ justify-content: space-between;
+ position: relative;
+ right: 2%;
+}
+.Headerlast button{
+       border: none;
+    background-color: white;
+
+}
+
+ */
+
+ button {
+    color:white;
+    margin: 10px;
+    background-color: rgb(5, 5, 5);
+    padding: 10px;
+ }
